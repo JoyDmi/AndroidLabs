@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="click">Кликни</string>
+    <string name="cat_image_description">Cat</string>
+    <string name="score">Очки: 0</string>
+
+</resources>
